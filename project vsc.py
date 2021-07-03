@@ -175,6 +175,7 @@ class Hospital:
             "arial", 12, "bold"), width=23, height=16, padx=2, pady=6)
         btnPrescription.grid(row=0, column=0)
 
+        123456
 
 root = Tk()
 ob = Hospital(root)
